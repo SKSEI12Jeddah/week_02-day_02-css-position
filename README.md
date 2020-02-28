@@ -9,6 +9,8 @@ By the end of this, developers should be able to:
 - Identify the position property of an element
 - Use static, relative, absolute, and fixed positioning for page layout
 
+<hr>
+
 ![positionIntro](images/positionIntro.png)
 
 ![positionIntro2](images/positionIntro2.png)
