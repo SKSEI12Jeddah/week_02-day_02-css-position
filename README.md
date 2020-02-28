@@ -19,11 +19,15 @@ By the end of this, developers should be able to:
 
 ![positionProperties](images/positionProperties.png)
 
+<hr>
+
 ![positionRelative](images/positionRelative.png)
 
 ![positionRelativeExample](images/positionRelativeExample.png)
 
 ### [View Codepen Example of Position Relative](https://codepen.io/MicFin/pen/ZWzxWx)
+
+<hr>
 
 ![positionAbsolute](images/positionAbsolute.png)
 
@@ -31,21 +35,33 @@ By the end of this, developers should be able to:
 
 ### [View Codepen Example of Position Absolute](https://codepen.io/MicFin/pen/grYeMP)
 
+<hr>
+
 ![positionFixed](images/positionFixed.png)
 
 ![positionFixedExample](images/positionFixedExample.png)
 
 ### [View Codepen Example of Position Fixed](https://codepen.io/MicFin/pen/bpbveg)
 
+<hr>
+
 ![z-index](images/z-index.png)
 
 ![z-index-2](images/z-index-2.png)
 
-## CSS Position Ice Cream
+<hr>
+
+## Activity: Turn and Talk (15 mins)
+
+<hr>
+
+## Lab: CSS Position Ice Cream
 
 - [Read this article](https://medium.freecodecamp.org/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9)
 
 - [Complete this exercise](https://www.codeanalogies.com/csssundae)
+
+<hr>
 
 ## Additional Resources
 
